@@ -1,0 +1,15 @@
+
+form {
+   margin: 20px;
+}
+input[name="success"] {
+  text-align: right;
+}
+
+button[type="submit"] {
+  margin: 10px;
+}
+.output {
+  font-family: monospace;
+  margin: 20px;
+}
